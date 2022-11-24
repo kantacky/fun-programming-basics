@@ -1,0 +1,4 @@
+Broadcasting,6,10000
+English,5,5500
+Handicrafts,4,24000
+Chemistry,5,55000

@@ -1,0 +1,7 @@
+Baseball,33,100000
+Golf,9,200000
+Drama,11,30000
+Cooking,5,10000
+Ski,6,50000
+Athletic,9,100000
+Rakugo,4,10000
